@@ -1,8 +1,8 @@
 /* Body styling */
 body {
-  background: #713e94;
+  background: darkseagreen;
   color: #fff;
-  font-family: Helvetica, Arial;
+  font-family: Courier, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
   font-size: 27px;
   font-weight: 300;
   line-height: 1.65em;
@@ -14,8 +14,8 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
-  color: #fff;
+  font-size: 85px;
+  color: wheat;
   text-align: center;
 }
 
@@ -32,7 +32,7 @@ h1 {
   background: transparent;
   border: 3px solid #fff;
   border-radius: 6px;
-  color: #fff;
+  color: lightcoral;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #713e94;
+  color: black;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
@@ -115,5 +115,5 @@ h1 {
 .show {
   opacity: 1;
   height: 100%;
-}/* CSS Document */
+}
 
